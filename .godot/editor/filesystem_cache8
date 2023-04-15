@@ -1,8 +1,8 @@
 2a60927148abd1d33b818b535e306557
-::res://::1681556609
+::res://::1681573016
 icon.svg::CompressedTexture2D::7466266913834341737::1681556076::1681556289::1::::<><>::
-main.tscn::PackedScene::9006063868021570376::1681556609::0::1::::<><>::uid://cuuibt276wkr7<>res://scripts/Player.gd<>uid://utpqe8hcr2vi
-mauiRunning.png::CompressedTexture2D::4115011337452531170::1681556076::1681556289::1::::<><>::
+main.tscn::PackedScene::9006063868021570376::1681572173::0::1::::<><>::uid://cuuibt276wkr7<>res://scripts/Player.gd<>uid://utpqe8hcr2vi<>res://scripts/Hook.gd<>uid://b0n4d3jwmkule
+mauiRunning.png::CompressedTexture2D::3086011840211702833::1681556076::1681573016::1::::<><>::
 mauiRunning.res::SpriteFrames::8830452157404533307::1681556076::0::1::::<><>::uid://byvlvuwmp0jpi
 README.md::TextFile::-1::1681556076::0::1::::<><>::
 ::res://addons/::1681556076
@@ -49,10 +49,12 @@ result_codes.gd::GDScript::-1::1681556076::0::1::::<>RefCounted<>::
 wizard_config.gd::GDScript::-1::1681556076::0::1::::<>RefCounted<>::
 ::res://addons/AsepriteWizard/export/::1681556076
 metadata_export_plugin.gd::GDScript::-1::1681556076::0::1::::<>EditorExportPlugin<>::
-::res://Asset/::1681557006
+::res://aseprite/::1681572566
+::res://Asset/::1681572554
 hook.png::CompressedTexture2D::4169746321191705562::1681557006::1681557009::1::::<><>::
 standingmaui.png::CompressedTexture2D::1443939639075125766::1681556076::1681556289::1::::<><>::
 Tile_flat.png::CompressedTexture2D::6218394358113690730::1681556076::1681556289::1::::<><>::
-::res://scripts/::1681556076
-Player.gd::GDScript::-1::1681556076::0::1::::<>CharacterBody2D<>::
+::res://scripts/::1681572140
+Hook.gd::GDScript::-1::1681572034::0::1::::<>CharacterBody2D<>::
+Player.gd::GDScript::-1::1681572140::0::1::::<>CharacterBody2D<>::
 ::res://test_folder/::1681556201
