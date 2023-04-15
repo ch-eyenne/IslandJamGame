@@ -51,10 +51,6 @@ position = Vector2(800, 450)
 [node name="Hook" type="CharacterBody2D" parent="."]
 position = Vector2(163, 160)
 motion_mode = 1
-<<<<<<< HEAD
-safe_margin = 1.0
-=======
->>>>>>> bcaf5fe8bfdaaa628fa0c4f4dbfb03329f77504e
 script = ExtResource("4_1ic0o")
 
 [node name="Sprite2D2" type="Sprite2D" parent="Hook"]
@@ -73,11 +69,7 @@ position = Vector2(20, -14)
 shape = SubResource("CircleShape2D_oq3ab")
 
 [node name="hook_active_timer" type="Timer" parent="Hook"]
-<<<<<<< HEAD
-wait_time = 0.7
-=======
 wait_time = 3.0
->>>>>>> bcaf5fe8bfdaaa628fa0c4f4dbfb03329f77504e
 one_shot = true
 
 [node name="Player" type="CharacterBody2D" parent="."]
